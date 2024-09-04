@@ -8,4 +8,6 @@ Hago comando git clone para crear una copia del repositorio remoto en el equipo 
 
 ![alt text](image-1.png)
 
-Ahora hago un add un commit y un push para subir los archivos del local al remoto 
+Ahora hago un add un commit y un push para subir los archivos del local al remoto.
+
+PRUEBA
